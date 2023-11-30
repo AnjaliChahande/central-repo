@@ -1,1 +1,1 @@
-this file is created to test the gitignore freature 
+this code is written by devloper
